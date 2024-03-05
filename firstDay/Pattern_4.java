@@ -1,3 +1,5 @@
+package firstDay;
+
 import java.util.Scanner;
 
 public class Pattern_4 {
